@@ -1,5 +1,7 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class HUDController : MonoBehaviour
 {
@@ -13,6 +15,7 @@ public class HUDController : MonoBehaviour
     {
         SceneManager.LoadScene(sceneBuildIndex: 1);
     }
+    
     
     public void OpenSettingsMenu()
     { 
