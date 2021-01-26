@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
  public class Card : MonoBehaviour
@@ -9,9 +10,12 @@ using UnityEngine;
      [SerializeField] private bool IsPlayed;
 
      [SerializeField] private bool isPlayable;
+     
+     
 
-     void Action(object[] args)
+     private void OnMouseDown()
      {
-         
+         Debug.Log($"Suit: {Suit}, Value: {Value}");
      }
+     
  }

@@ -20,23 +20,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f34ac27d-399e-42e0-ac22-f787f9edfaf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cards.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/Card.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/Card.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/Seven.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/Seven.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/Six.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/Six.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ICard.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ICard.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVSBridge/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVSBridge/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVSBridge/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVSBridge/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AVSBridge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVSBridge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KingPikesCard.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KingPikesCard.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cards/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/Card.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HUDController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HUDController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/10C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/10C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/10D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/10D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/10H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/10H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/10S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/10S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/2C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/2C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/2D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/2D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/2H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/2H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/3C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/3C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/3D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/3D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/3H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/3H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/3S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/3S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/4C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/4C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/4D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/4D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/4H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/4H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/4S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/4S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/5C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/5C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/5D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/5D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/5H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/5H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/5S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/5S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/6C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/6C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/6D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/6D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/6H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/6H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/6S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/6S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/7C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/7C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/7D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/7D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/7H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/7H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/7S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/7S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/8C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/8C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/8D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/8D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/8H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/8H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/8S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/8S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/9C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/9C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/9D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/9D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/9H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/9H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/9S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/9S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/AC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/AC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/AD.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/AD.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/AH.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/AH.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/AS.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/AS.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/JC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/JC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/JD.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/JD.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/JH.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/JH.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/JS.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/JS.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/KC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/KC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/KD.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/KD.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/KH.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/KH.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/KS.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/KS.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/QC.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/QC.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/QD.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/QD.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/QH.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/QH.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PNG/QS.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PNG/QS.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +155,7 @@
       <updated>1610979522781</updated>
       <workItem from="1610979529312" duration="3638000" />
       <workItem from="1611078353208" duration="4344000" />
+      <workItem from="1611679961966" duration="4574000" />
     </task>
     <servers />
   </component>
@@ -131,6 +174,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
